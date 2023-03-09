@@ -1,3 +1,3 @@
 # aizon
-# aizon-website
-# aizon-hugo
+
+static website for aizon company
